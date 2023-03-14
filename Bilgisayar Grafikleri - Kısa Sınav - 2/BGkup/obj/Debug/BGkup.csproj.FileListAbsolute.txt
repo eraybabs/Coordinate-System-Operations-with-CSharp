@@ -1,0 +1,30 @@
+C:\Users\root\source\repos\BGkup\bin\Debug\BGkup.exe.config
+C:\Users\root\source\repos\BGkup\bin\Debug\BGkup.exe
+C:\Users\root\source\repos\BGkup\bin\Debug\BGkup.pdb
+C:\Users\root\source\repos\BGkup\obj\Debug\BGkup.csprojAssemblyReference.cache
+C:\Users\root\source\repos\BGkup\obj\Debug\BGkup.Form1.resources
+C:\Users\root\source\repos\BGkup\obj\Debug\BGkup.Properties.Resources.resources
+C:\Users\root\source\repos\BGkup\obj\Debug\BGkup.csproj.GenerateResource.cache
+C:\Users\root\source\repos\BGkup\obj\Debug\BGkup.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\BGkup\obj\Debug\BGkup.exe
+C:\Users\root\source\repos\BGkup\obj\Debug\BGkup.pdb
+C:\Users\root\Desktop\BGkup\bin\Debug\BGkup.exe.config
+C:\Users\root\Desktop\BGkup\bin\Debug\BGkup.exe
+C:\Users\root\Desktop\BGkup\bin\Debug\BGkup.pdb
+C:\Users\root\Desktop\BGkup\obj\Debug\BGkup.csprojAssemblyReference.cache
+C:\Users\root\Desktop\BGkup\obj\Debug\BGkup.Form1.resources
+C:\Users\root\Desktop\BGkup\obj\Debug\BGkup.Properties.Resources.resources
+C:\Users\root\Desktop\BGkup\obj\Debug\BGkup.csproj.GenerateResource.cache
+C:\Users\root\Desktop\BGkup\obj\Debug\BGkup.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\BGkup\obj\Debug\BGkup.exe
+C:\Users\root\Desktop\BGkup\obj\Debug\BGkup.pdb
+C:\Users\eray_\Desktop\projeler\Bilgisayar Grafikleri - Kısa Sınav - 2\BGkup\bin\Debug\BGkup.exe.config
+C:\Users\eray_\Desktop\projeler\Bilgisayar Grafikleri - Kısa Sınav - 2\BGkup\bin\Debug\BGkup.exe
+C:\Users\eray_\Desktop\projeler\Bilgisayar Grafikleri - Kısa Sınav - 2\BGkup\bin\Debug\BGkup.pdb
+C:\Users\eray_\Desktop\projeler\Bilgisayar Grafikleri - Kısa Sınav - 2\BGkup\obj\Debug\BGkup.csproj.AssemblyReference.cache
+C:\Users\eray_\Desktop\projeler\Bilgisayar Grafikleri - Kısa Sınav - 2\BGkup\obj\Debug\BGkup.Form1.resources
+C:\Users\eray_\Desktop\projeler\Bilgisayar Grafikleri - Kısa Sınav - 2\BGkup\obj\Debug\BGkup.Properties.Resources.resources
+C:\Users\eray_\Desktop\projeler\Bilgisayar Grafikleri - Kısa Sınav - 2\BGkup\obj\Debug\BGkup.csproj.GenerateResource.cache
+C:\Users\eray_\Desktop\projeler\Bilgisayar Grafikleri - Kısa Sınav - 2\BGkup\obj\Debug\BGkup.csproj.CoreCompileInputs.cache
+C:\Users\eray_\Desktop\projeler\Bilgisayar Grafikleri - Kısa Sınav - 2\BGkup\obj\Debug\BGkup.exe
+C:\Users\eray_\Desktop\projeler\Bilgisayar Grafikleri - Kısa Sınav - 2\BGkup\obj\Debug\BGkup.pdb
